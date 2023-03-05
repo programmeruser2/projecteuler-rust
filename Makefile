@@ -1,2 +1,2 @@
 %: %.rs
-	rustc $< -o $@
+	rustc $< -o bin/$@
